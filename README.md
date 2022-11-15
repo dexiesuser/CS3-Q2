@@ -1,3 +1,9 @@
-# Computer Science 3: 2nd Quarter
-Dexielyn Amor C. Halog's outputs for Computer Science 3 during the 2nd Quarter of SY 2022-2023. <br>
-<a href ="dexiesuser.github.io/CS3-Q2">Github</a>
+# Computer Science 3: 2nd Quarter Outputs
+<h2> General Overview: </h2>
+<p> Author: Dexielyn Amor C. Halog </p> <br>
+<p> Subject: Computer Science 3 </p> <br>
+<p> Quarter and SY: 2nd Semester, SY 2022-2023 </p> <br>
+<p> Grade and Section: 9 - Potassium </p> <hr>
+<ul>
+  <li> <a href ="https://dexiesuser.github.io/CS3-Q2/Laboratory%20Exercise%209/mod6-1_Halog.html">Laboratory Exercise 9</a> </li>
+<ul>
