@@ -48,5 +48,6 @@ aside {
     font-size: 80%;
     font-style: italic;
     box-shadow: 3px 5px 3px 1px #7e563e;
-    position: relative; top:-40px;
+    position: relative; 
+    top:-40px;
 }
