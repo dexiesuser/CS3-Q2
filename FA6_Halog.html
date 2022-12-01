@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .a1:link {
+                background-color: #809bce;
+                color: #000;
+                text-decoration: none;
+            }
+
+            .a1:visited {
+                background-color: #fb6f92;
+                color: #edf2fa;
+            }
+
+            .a1:hover {
+                background-color: #ebd8c3;
+                color: #f9a3ba;
+            }
+
+            .a1:active {
+                background-color: #fbffba;
+                color: #79adcc;
+            }
+
+            .a2:link {
+                background-color: #1572a1;
+                color: #fefefe;
+                text-decoration: none;
+            }
+
+            .a2:visited {
+                background-color: #cba0ae;
+                color: #e4d192;
+            }
+
+            .a2:hover {
+                background-color: #f0ffdb;
+                color: #000;
+            }
+
+            .a2:active {
+                background-color: #f4ffff;
+                color: #c095e4;
+            }
+
+            #div1 {
+                border: solid black 2px;
+                width: 100px;
+                height: 100px;
+            }
+
+            #div2 {
+                border: solid black 2px;
+                width: 100px;
+                height: 100px;
+            }
+
+            #div1:target {
+                background-color: #f4895f;
+                color: #d1d1d3;
+            }
+
+            #div2:target {
+                border: dotted green 10px;
+                background-color: #fcc3e2;
+                color: #fcff72;
+            }
+        </style>
+    </head>
+
+    <body>
+        <a class="a1" href="#div1">First Link</a>
+        <a class="a2" href="#div2">Second Link</a>
+        <br>
+        <br>
+        <div id="div1">
+            Div 1 here
+            <br>
+            <br>
+            <br>
+        </div>
+        <br>
+        <div id="div2">
+            Div 2 here
+            <br>
+            <br>
+            <br>
+        </div>
+        <br>
+        <a href="FA6_Halog.html">Return to default</a>
+    </body>
+
+</html>
