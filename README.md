@@ -9,6 +9,6 @@
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/Formative%20Assessment%205/FA5_Halog.html">Formative Assessment 5</a> </li>
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/FA6_Halog.html">Formative Assessment 6</a> </li>
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/FA7_Halog.html">Formative Assessment 7</a> </li>
-  <li> <a href = "https://dexiesuser.github.io/CS3-Q2/AA2_Halog/AA2_Halog.html">Alternative Assessment 1</a> </li>
+  <li> <a href = "https://dexiesuser.github.io/CS3-Q2/AA2_Halog/index.html">Alternative Assessment 1</a> </li>
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/AA2_Halog_1/AA2_Halog.html">Alternative Assessment 2</a> </li>
 <ul>
