@@ -11,5 +11,5 @@
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/FA7_Halog.html">Formative Assessment 7</a> </li>
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/AA2_Halog/home.html">Alternative Assessment 1</a> </li>
   <li> <a href = "https://dexiesuser.github.io/CS3-Q2/AA2_Halog_1/AA2_Halog.html">Alternative Assessment 2</a> </li>
-  <li> <a href = "https://dexiesuser.github.io/CS3-Q2/2Q_Project.html">2nd Quarter Project</a> </li>
+  <li> <a href = "https://dexiesuser.github.io/CS3-Q2/2Q_Project">2nd Quarter Project</a> </li>
 <ul>
