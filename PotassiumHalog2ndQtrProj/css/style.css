@@ -18,6 +18,7 @@ header {
   height: 180px;
   border: 2px solid white;
   padding-top: 0;
+  z-index: 1;
 }
 
 li {
