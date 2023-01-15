@@ -143,14 +143,6 @@ section {
     margin-left: 200px;
   }  
 
-.nextsp {
-    position: inherit;
-}
-
-.nextsp:hover:before {
-    width: 0;
-}
-
 .track2 {
   float: right;
 }
