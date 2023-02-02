@@ -1,4 +1,4 @@
-var age = 13;
+var age = 14;
 var maxAge = 200;
 var numPerDay = 2;
 var totalRequired =(numPerDay * 365) * (maxAge - age);
